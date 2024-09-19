@@ -1,0 +1,14 @@
+Assets filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
+Unity.Splines.Examples.Editor.csproj filter=lfs diff=lfs merge=lfs -text
+UserSettings filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+Temp filter=lfs diff=lfs merge=lfs -text
+Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]project.sln filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Packages filter=lfs diff=lfs merge=lfs -text
+Unity.Splines.Examples.csproj filter=lfs diff=lfs merge=lfs -text
+build_android filter=lfs diff=lfs merge=lfs -text
